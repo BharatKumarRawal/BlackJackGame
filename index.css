@@ -1,0 +1,33 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-image: url("https://media.istockphoto.com/id/905486620/photo/green-felt-texture-for-casino-background.jpg?s=612x612&w=0&k=20&c=-13yglCm8BjAVTywkzzCfFf3HxXHLrL0ceasuHZLkPI=");
+    background-size: cover;
+    color: white;
+    font-weight: bolder;
+}
+h1{
+    color: goldenrod;
+}
+#message-el{
+    font-style: italic;
+}
+
+button{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 25px;
+    width: 150px;
+    border: none;
+    font-weight: bolder;
+    margin-right: 20px;
+}
+#btn-start{
+    background-color: goldenrod;
+}
+#card-btn{
+    background-color: goldenrod;
+}
